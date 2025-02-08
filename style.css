@@ -201,7 +201,7 @@ body {
 
 
 .mission {
-    background: url('/img/bg_mission.png') no-repeat top center/contain, #fff;
+    background: url("./img/bg_mission.png") no-repeat top center/contain, #fff;
     padding: 0px 0 100px;
     color: #333;
     border-radius: 25px;
