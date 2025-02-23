@@ -3532,5 +3532,8 @@ p.email-info ::after {
     .section-protect__img-block img {
         width: 75%;
     }
+    .user-input-chat {
+        padding: 5px;
+    }
 }
 
